@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mulatu</h1>
 <h3 align="center">A full stack web developer from Ethiopia,Addis</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medendale&label=Profile%20views&color=0e75b6&style=flat" alt="medendale" /> </p>
-- 🌱 I’m always learning 
-- 👯 I’m Happy to collaborate on **Any Projects**
-- 📫 How to reach me **mulercs514@gmail.com**
-- ⚡ Fun fact ** None **
+<p>
+<br>
+  - 🌱 I’m always learning <br>
+- 👯 I’m Happy to collaborate on **Any Projects**<br>
+- 📫 How to reach me **mulercs514@gmail.com**<br>
+- ⚡ Fun fact ** None **<br>
+
+</p>
 ## Languages and Tools
 <table align="center">
   <tr>
@@ -16,7 +19,10 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-   
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
+    s  <br>.Net
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -37,7 +43,9 @@
     </td>
   </tr>
   <tr>
-  
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -71,3 +79,19 @@
 </tr>
 </tr></tr>
 
+- Cloud Servers
+## Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+## Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
