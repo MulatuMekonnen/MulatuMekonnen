@@ -1,4 +1,4 @@
-z<h1 align="center">Hi 👋, I'm Mulatu</h1>
+<h1 align="center">Hi 👋, I'm Mulatu</h1>
 <h3 align="center">A full stack web developer from Ethiopia,Addis</h3>
 <p>
 <br>
@@ -21,9 +21,8 @@ z<h1 align="center">Hi 👋, I'm Mulatu</h1>
     </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
-      <br>.Net
+    s  <br>.Net
     </td>
-    
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -79,7 +78,6 @@ z<h1 align="center">Hi 👋, I'm Mulatu</h1>
 <br><br>
 </tr>
 </tr></tr>
-
 
 - Tools
 ## Tools
